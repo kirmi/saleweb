@@ -17,7 +17,7 @@
             <property name="searchString" value="Example$" />
             <property name="replaceString" value="Criteria" />
         </plugin>
-        <plugin type="com.shinowit.mybatis.plugin.SelectByPage4MySqlPlugin"/>
+        <plugin type="com.shinowit.mybatis.plugin.SelectByPage4SqlSeverPlugin"/>
 
         <!--jdbc的相关配置-->
         <jdbcConnection driverClass="com.mysql.jdbc.Driver"
